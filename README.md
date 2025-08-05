@@ -38,5 +38,5 @@
 1️⃣ **Clone the repository**  
 Copy this spell to your terminal 🪄:
 ```bash
-git clone https://github.com/yourusername/maze-solver-game.git
+git clone https://github.com/student-manokamna/maze-solver-game.git
 cd maze-solver-game
